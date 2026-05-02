@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 Analyzed 6,800+ real Dutch housing records from Funda 
-(Netherlands largest real estate platform) to uncover 
+(the Netherlands largest real estate platform) to uncover 
 price trends, patterns and built a price prediction model.
 
 ## 🛠️ Tools & Technologies
@@ -30,7 +30,8 @@ Built a Linear Regression model to predict house prices
 based on area and number of rooms.
 - R² Score: 0.21
 - RMSE: €199,992
-- Note: Low R² is expected as location data was unavailable
+- Note: Model performance is limited due to absence of location-based features,
+  which are critical in real estate pricing.
 
 ## 📂 Dataset
 - Source: Funda - Sold Houses in Netherlands (Kaggle)
@@ -38,5 +39,6 @@ based on area and number of rooms.
 - Original: 9,975 records
 
 ## 👩‍💻 Author
-Meghana | Data Science Enthusiast
-Cognizant | B.Tech CSE Data Science
+MeghanaKSS
+Data Science Enthusiast | Cognizant
+B.Tech CSE Data Science
